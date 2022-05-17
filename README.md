@@ -2,7 +2,7 @@
 
 <div>
   <a href="https://github.com/ladeiraA">
-  <img height="15em"  align="center"  src="https://github-readme-stats.vercel.app/api?username=ladeiraA&show_icons=true&theme=react&include_all_commits=true&count_private=false"/>
+  <img height="150em"  align="center"  src="https://github-readme-stats.vercel.app/api?username=ladeiraA&show_icons=true&theme=react&include_all_commits=true&count_private=false"/>
   <img height="150em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ladeiraA&layout=compact&langs_count=7&theme=react" />
 </div>
   <br>
