@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://github.com/ladeiraA">
   <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=ladeiraA&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
-<!--   <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ladeiraA&layout=compact&langs_count=6&theme=dark"/> -->
+  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ladeiraA&layout=compact&langs_count=6&theme=dark"/>
 </div>
 
 
