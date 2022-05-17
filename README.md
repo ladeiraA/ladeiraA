@@ -14,7 +14,7 @@
  
   ![Snake animation](https://github.com/ladeiraA/ladeiraA/blob/output/github-contribution-grid-snake.svg)
  
-    [![readme](https://github-readme-stats.vercel.app/api/pin/?username=ladeiraA&repo=ladeiraA&theme=react)](https://github.com/ladeiraA/ladeiraA)
+   
 </div>
- 
+<!--    [![readme](https://github-readme-stats.vercel.app/api/pin/?username=ladeiraA&repo=ladeiraA&theme=react)](https://github.com/ladeiraA/ladeiraA) -->
 
